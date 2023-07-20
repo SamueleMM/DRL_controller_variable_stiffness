@@ -23,3 +23,12 @@ _________________________________________________________
 If you want to compare your pre-trained model with the PID controller, run the DRL_parameter.m to reload your model.
 
 Then run the "compare.m" script to compare two controllers.
+
+
+_____________________________________________________________
+***NOTICE***: To value the system parameters and deduct the state space model, the Quanser function where used that we are not allowed to upload here.
+You'll need to set the system parameters before you run the models.
+
+
+
+### Paper: ***Reinforcement Learning Stiffness Control of 4D-printed Soft Joint Robotic Arm***
