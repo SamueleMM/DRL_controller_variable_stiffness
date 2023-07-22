@@ -80,3 +80,5 @@ Then run the "compare.m" script to compare two controllers.
 
 
 ### Paper: ***Reinforcement Learning Stiffness Control of 4D-printed Soft Joint Robotic Arm***
+
+PS: this readme file is written with the help of AI generative models (ChatGPT).
